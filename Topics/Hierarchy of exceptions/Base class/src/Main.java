@@ -11,5 +11,6 @@ class Main {
         System.out.println(myException.getMessage());
         Class<?> superClass = myException.getClass().getSuperclass();
         System.out.println(superClass.equals(Throwable.class));
+
     }
 }
