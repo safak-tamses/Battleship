@@ -1,0 +1,27 @@
+content:
+- Overview of the basic program
+- Printing data
+- Types and variables
+- Scanning the input
+- Integer types and operations
+- Relational operators
+- Conditional statement
+- The while and do-while loops
+- The for-loop
+- Branching statements
+- Switch statement
+- Declaring a method
+- The main method
+- Functional decomposition
+- Overloading
+- Primitive and reference types
+- Arrays as parameters
+- Iterating over arrays
+- Errors in programs
+- NPE
+- Defining classes
+- Constructor
+- Instance methods
+- Getters and setters
+- The keyword super
+- Objects
